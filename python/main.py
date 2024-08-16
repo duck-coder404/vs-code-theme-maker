@@ -1,28 +1,34 @@
 import json
 import tkinter as tk
+from tkinter import ttk
 
-with open("/home/duck/Downloads/theme maker/settings.json") as read_file:
-    all_sittings = json.load(read_file)
+all_sittings = json.load(open("/home/duck/Downloads/theme maker/settings.json"))
 
 window = tk.Tk()
-window.attributes('-topmost', 1) #remove later pls
+window.attributes("-topmost", 1)  # remove later pls
 window.title("VS Code theme maker")
-
-window_width = 300
-window_height = 200
-
-# get the screen dimension
-screen_width = window.winfo_screenwidth()
+window_width = 800
+window_height = 500
+screen_width = window.winfo_screenwidth()  # get the screen dimension
 screen_height = window.winfo_screenheight()
-
-# calculate the center point
-center_x = int(screen_width / 2 - window_width / 2)
+center_x = int(screen_width / 2 - window_width / 2)  # calculate the center point
 center_y = int(screen_height / 2 - window_height / 2)
-
-# set the position of the window to the center of the screen
 window.geometry(f"{window_width}x{window_height}+{center_x}+{center_y}")
 
-message = tk.Label(window, text="test")
-message.pack()
+
+options = tk.Variable(value=list(all_sittings.keys()))
+listbox = tk.Listbox(window, listvariable=options, height=6)
+listbox.pack(expand=True, fill=tk.BOTH)
+
+
+def items_selected(event):
+    # get all selected indices
+    selected_indices = listbox.curselection()
+    # get selected items
+    selected_values = ",".join([listbox.get(i) for i in selected_indices])
+    print(selected_values)
+
+
+listbox.bind("<<ListboxSelect>>", items_selected)
 
 window.mainloop()
