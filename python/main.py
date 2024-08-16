@@ -5,6 +5,7 @@ with open("/home/duck/Downloads/theme maker/settings.json") as read_file:
     all_sittings = json.load(read_file)
 
 window = tk.Tk()
+window.attributes('-topmost', 1) #remove later pls
 window.title("VS Code theme maker")
 
 window_width = 300
