@@ -1,0 +1,1257 @@
+contrastActiveBorder": "defualt",
+"contrastBorder": "defualt",
+"focusBorder": "defualt",
+"foreground": "defualt",
+"disabledForeground": "defualt",
+"widget.border": "defualt",
+"widget.shadow": "defualt",
+"selection.background": "defualt",
+"descriptionForeground": "defualt",
+"errorForeground": "defualt",
+"icon.foreground": "defualt",
+"sash.hoverBorder": "defualt",
+"window.activeBorder": "defualt",
+"window.inactiveBorder": "defualt",
+"window.titleBarStyle": "defualt",
+"textBlockQuote.background": "defualt",
+"textBlockQuote.border": "defualt",
+"textCodeBlock.background": "defualt",
+"textLink.activeForeground": "defualt",
+"textLink.foreground": "defualt",
+"textPreformat.foreground": "defualt",
+"textPreformat.background": "defualt",
+"textSeparator.foreground": "defualt",
+"
+Actioncolors
+
+Asetofcolorstocontroltheinteractionswithactionsacrosstheworkbench.
+
+toolbar.hoverBackground": "defualt",
+"toolbar.hoverOutline": "defualt",
+"toolbar.activeBackground": "defualt",
+"
+Buttoncontrol
+
+AsetofcolorsforbuttonwidgetssuchasOpenFolderbuttonintheExplorerofanewwindow.
+
+buttoncontrol
+
+button.background": "defualt",
+"button.foreground": "defualt",
+"button.border": "defualt",
+"button.separator": "defualt",
+"button.hoverBackground": "defualt",
+"button.secondaryForeground": "defualt",
+"button.secondaryBackground": "defualt",
+"button.secondaryHoverBackground": "defualt",
+"checkbox.background": "defualt",
+"checkbox.foreground": "defualt",
+"checkbox.border": "defualt",
+"checkbox.selectBackground": "defualt",
+"checkbox.selectBorder": "defualt",
+"
+Dropdowncontrol
+
+AsetofcolorsforallDropdownwidgetssuchasintheIntegratedTerminalortheOutputpanel.NotethattheDropdowncontrolisnotusedonmacOScurrently.
+
+dropdowncontrol
+
+dropdown.background": "defualt",
+"dropdown.listBackground": "defualt",
+"dropdown.border": "defualt",
+"dropdown.foreground": "defualt",
+"
+Inputcontrol
+
+ColorsforinputcontrolssuchasintheSearchviewortheFindReplacedialog.
+
+inputcontrol
+
+input.background": "defualt",
+"input.border": "defualt",
+"input.foreground": "defualt",
+"input.placeholderForeground": "defualt",
+"inputOption.activeBackground": "defualt",
+"inputOption.activeBorder": "defualt",
+"inputOption.activeForeground": "defualt",
+"inputOption.hoverBackground": "defualt",
+"inputValidation.errorBackground": "defualt",
+"inputValidation.errorForeground": "defualt",
+"inputValidation.errorBorder": "defualt",
+"inputValidation.infoBackground": "defualt",
+"inputValidation.infoForeground": "defualt",
+"inputValidation.infoBorder": "defualt",
+"inputValidation.warningBackground": "defualt",
+"inputValidation.warningForeground": "defualt",
+"inputValidation.warningBorder": "defualt",
+"
+Scrollbarcontrol
+
+scrollbar.shadow": "defualt",
+"scrollbarSlider.activeBackground": "defualt",
+"scrollbarSlider.background": "defualt",
+"scrollbarSlider.hoverBackground": "defualt",
+"
+Badge
+
+
+
+badge.foreground": "defualt",
+"badge.background": "defualt",
+"
+Progressbar
+
+progressBar.background": "defualt",
+"
+Listsandtrees
+
+
+
+list.activeSelectionBackground": "defualt",
+"list.activeSelectionForeground": "defualt",
+"list.activeSelectionIconForeground": "defualt",
+"list.dropBackground": "defualt",
+"list.focusBackground": "defualt",
+"list.focusForeground": "defualt",
+"list.focusHighlightForeground": "defualt",
+"list.focusOutline": "defualt",
+"list.focusAndSelectionOutline": "defualt",
+"list.highlightForeground": "defualt",
+"list.hoverBackground": "defualt",
+"list.hoverForeground": "defualt",
+"list.inactiveSelectionBackground": "defualt",
+"list.inactiveSelectionForeground": "defualt",
+"list.inactiveSelectionIconForeground": "defualt",
+"list.inactiveFocusBackground": "defualt",
+"list.inactiveFocusOutline": "defualt",
+"list.invalidItemForeground": "defualt",
+"list.errorForeground": "defualt",
+"list.warningForeground": "defualt",
+"listFilterWidget.background": "defualt",
+"listFilterWidget.outline": "defualt",
+"listFilterWidget.noMatchesOutline": "defualt",
+"listFilterWidget.shadow": "defualt",
+"list.filterMatchBackground": "defualt",
+"list.filterMatchBorder": "defualt",
+"list.deemphasizedForeground": "defualt",
+"list.dropBetweenBackground": "defualt",
+"tree.indentGuidesStroke": "defualt",
+"tree.inactiveIndentGuidesStroke": "defualt",
+"tree.tableColumnsBorder": "defualt",
+"tree.tableOddRowsBackground": "defualt",
+"
+ActivityBar
+
+TheActivityBarisusuallydisplayedeitheronthefarleftorrightoftheworkbenchandallowsfastswitchingbetweenviewsoftheSideBar.
+
+activityBar.background": "defualt",
+"activityBar.dropBorder": "defualt",
+"activityBar.foreground": "defualt",
+"activityBar.inactiveForeground": "defualt",
+"activityBar.border": "defualt",
+"activityBarBadge.background": "defualt",
+"activityBarBadge.foreground": "defualt",
+"activityBar.activeBorder": "defualt",
+"activityBar.activeBackground": "defualt",
+"activityBar.activeFocusBorder": "defualt",
+"activityBarTop.foreground": "defualt",
+"activityBarTop.activeBorder": "defualt",
+"activityBarTop.inactiveForeground": "defualt",
+"activityBarTop.dropBorder": "defualt",
+"activityBarTop.background": "defualt",
+"activityBarTop.activeBackground": "defualt",
+"
+Profiles
+
+profileBadge.background": "defualt",
+"profileBadge.foreground": "defualt",
+"profiles.sashBorder": "defualt",
+"
+SideBar
+
+TheSideBarcontainsviewsliketheExplorerandSearch.
+
+sideBar.background": "defualt",
+"
+sideBar.foreground": "defualt",
+"
+sideBar.border": "defualt",
+"
+sideBar.dropBackground": "defualt",
+"
+sideBarTitle.foreground": "defualt",
+"
+sideBarSectionHeader.background": "defualt",
+"
+sideBarSectionHeader.foreground": "defualt",
+"
+sideBarSectionHeader.border": "defualt",
+"
+sideBarActivityBarTop.border": "defualt",
+"
+sideBarTitle.background": "defualt",
+"
+sideBarStickyScroll.background": "defualt",
+"
+sideBarStickyScroll.border": "defualt",
+"
+sideBarStickyScroll.shadow": "defualt",
+"
+Minimap
+
+TheMinimapshowsaminifiedversionofthecurrentfile.
+
+minimap.findMatchHighlight": "defualt",
+"
+minimap.selectionHighlight": "defualt",
+"
+minimap.errorHighlight": "defualt",
+"
+minimap.warningHighlight": "defualt",
+"
+minimap.background": "defualt",
+"
+minimap.selectionOccurrenceHighlight": "defualt",
+"
+minimap.foregroundOpacity": "defualt",
+"
+minimap.infoHighlight": "defualt",
+"
+minimapSlider.background": "defualt",
+"
+minimapSlider.hoverBackground": "defualt",
+"
+minimapSlider.activeBackground": "defualt",
+"
+minimapGutter.addedBackground": "defualt",
+"
+minimapGutter.modifiedBackground": "defualt",
+"
+minimapGutter.deletedBackground": "defualt",
+"
+EditorGroups&Tabs
+
+EditorGroupsarethecontainersofeditors.Therecanbemanyeditorgroups.ATabisthecontainerofaneditor.MultipleTabscanbeopenedinoneeditorgroup.
+
+editorGroup.border": "defualt",
+"
+editorGroup.border
+
+editorGroup.dropBackground": "defualt",
+"
+editorGroup.dropBackground
+
+editorGroupHeader.noTabsBackground": "defualt",
+"
+editorGroupHeader.noTabsBackground
+
+editorGroupHeader.tabsBackground": "defualt",
+"
+editorGroupHeader.tabsBackground
+
+editorGroupHeader.tabsBorder": "defualt",
+"
+editorGroupHeader.tabsBorder
+
+editorGroupHeader.border": "defualt",
+"
+editorGroup.emptyBackground": "defualt",
+"
+editorGroup.focusedEmptyBorder": "defualt",
+"
+editorGroup.dropIntoPromptForeground": "defualt",
+"
+editorGroup.dropIntoPromptBackground": "defualt",
+"
+editorGroup.dropIntoPromptBorder": "defualt",
+"
+tab.activeBackground": "defualt",
+"
+tab.unfocusedActiveBackground": "defualt",
+"
+tab.activeForeground": "defualt",
+"
+tab.border": "defualt",
+"
+tab.activeBorder": "defualt",
+"
+tab.selectedBorderTop": "defualt",
+"
+tab.selectedBackground": "defualt",
+"
+tab.selectedForeground": "defualt",
+"
+tab.dragAndDropBorder": "defualt",
+"
+tab.unfocusedActiveBorder": "defualt",
+"
+tab.activeBorderTop": "defualt",
+"
+tab.unfocusedActiveBorderTop": "defualt",
+"
+tab.dragAndDropBorder": "defualt",
+"
+tab.lastPinnedBorder": "defualt",
+"
+tab.inactiveBackground": "defualt",
+"
+tab.unfocusedInactiveBackground": "defualt",
+"
+tab.inactiveForeground": "defualt",
+"
+tab.unfocusedActiveForeground": "defualt",
+"
+tab.unfocusedInactiveForeground": "defualt",
+"
+tab.hoverBackground": "defualt",
+"
+tab.unfocusedHoverBackground": "defualt",
+"
+tab.hoverForeground": "defualt",
+"
+tab.unfocusedHoverForeground": "defualt",
+"
+tab.hoverBorder": "defualt",
+"
+tab.unfocusedHoverBorder": "defualt",
+"
+tab.activeModifiedBorder": "defualt",
+"
+tab.inactiveModifiedBorder": "defualt",
+"
+tab.unfocusedActiveModifiedBorder": "defualt",
+"
+tab.unfocusedInactiveModifiedBorder": "defualt",
+"
+editorPane.background": "defualt",
+"
+sideBySideEditor.horizontalBorder": "defualt",
+"
+sideBySideEditor.verticalBorder": "defualt",
+"
+Editorcolors
+
+Themostprominenteditorcolorsarethetokencolorsusedforsyntaxhighlightingandarebasedonthelanguagegrammarinstalled.ThesecolorsaredefinedbytheColorThemebutcanalsobecustomizedwiththeeditor.tokenColorCustomizationssetting.SeeCustomizingaColorThemefordetailsonupdatingaColorThemeandtheavailabletokentypes.
+
+Allothereditorcolorsarelistedhere": "defualt",
+"
+editor.background": "defualt",
+"editor.foreground": "defualt",
+"editorLineNumber.foreground": "defualt",
+"editorLineNumber.activeForeground": "defualt",
+"editorLineNumber.dimmedForeground": "defualt",
+"editorCursor.background": "defualt",
+"editorCursor.foreground": "defualt",
+"editorMultiCursor.primary.foreground": "defualt",
+"editorMultiCursor.primary.background": "defualt",
+"editorMultiCursor.secondary.foreground": "defualt",
+"editorMultiCursor.secondary.background": "defualt",
+"editor.placeholder.foreground": "defualt",
+"
+Selectioncolorsarevisiblewhenselectingoneormorecharacters.Inadditiontotheselectionalsoallregionswiththesamecontentarehighlighted.
+
+selectionhighlight
+
+editor.selectionBackground": "defualt",
+"editor.selectionForeground": "defualt",
+"editor.inactiveSelectionBackground": "defualt",
+"editor.selectionHighlightBackground": "defualt",
+"editor.selectionHighlightBorder": "defualt",
+"
+
+
+occurrences
+
+editor.wordHighlightBackground": "defualt",
+"editor.wordHighlightBorder": "defualt",
+"editor.wordHighlightStrongBackground": "defualt",
+"editor.wordHighlightStrongBorder": "defualt",
+"editor.wordHighlightTextBackground": "defualt",
+"editor.wordHighlightTextBorder": "defualt",
+"
+FindcolorsdependonthecurrentfindstringintheFindReplacedialog.
+
+Findmatches
+
+editor.findMatchBackground": "defualt",
+"editor.findMatchForeground": "defualt",
+"editor.findMatchHighlightForeground": "defualt",
+"editor.findMatchHighlightBackground": "defualt",
+"editor.findRangeHighlightBackground": "defualt",
+"editor.findMatchBorder": "defualt",
+"editor.findMatchHighlightBorder": "defualt",
+"editor.findRangeHighlightBorder": "defualt",
+"
+Searchcolorsareusedinthesearchviewlet'sglobalsearchresults.
+
+SearchResults
+
+search.resultsInfoForeground": "defualt",
+"
+SearchEditorcolorshighlightresultsinaSearchEditor.Thiscanbeconfiguredseparatelyfromotherfindmatchesinordertobetterdifferentiatebetweendifferentclassesofmatchinthesameeditor.
+
+SearchEditorMatches
+
+searchEditor.findMatchBackground": "defualt",
+"searchEditor.findMatchBorder": "defualt",
+"searchEditor.textInputBorder": "defualt",
+"
+Thehoverhighlightisshownbehindthesymbolforwhichahoverisshown.
+
+HoverHighlight
+
+editor.hoverHighlightBackground": "defualt",
+"
+Thecurrentlineistypicallyshownaseitherbackgroundhighlightoraborder(notboth).
+
+LineHighlight
+
+editor.lineHighlightBackground": "defualt",
+"editor.lineHighlightBorder": "defualt",
+"
+Thecolorfortheeditorwatermark
+
+editorWatermark.foreground": "defualt",
+"
+Thecolorforunicodehighlights
+
+editorUnicodeHighlight.border": "defualt",
+"editorUnicodeHighlight.background": "defualt",
+"
+Thelinkcolorisvisiblewhenclickingonalink.
+
+Link
+
+editorLink.activeForeground": "defualt",
+"
+Therangehighlightisvisiblewhenselectingasearchresult.
+
+RangeHighlight
+
+editor.rangeHighlightBackground": "defualt",
+"editor.rangeHighlightBorder": "defualt",
+"
+ThesymbolhighlightisvisiblewhennavigatingtoasymbolviaacommandsuchasGotoDefinition.
+
+editor.symbolHighlightBackground": "defualt",
+"editor.symbolHighlightBorder": "defualt",
+"
+
+
+editorWhitespace.foreground": "defualt",
+"
+
+
+editorIndentGuide.background": "defualt",
+"editorIndentGuide.background1": "defualt",
+"editorIndentGuide.background2": "defualt",
+"editorIndentGuide.background3": "defualt",
+"editorIndentGuide.background4": "defualt",
+"editorIndentGuide.background5": "defualt",
+"editorIndentGuide.background6": "defualt",
+"editorIndentGuide.activeBackground": "defualt",
+"editorIndentGuide.activeBackground1": "defualt",
+"editorIndentGuide.activeBackground2": "defualt",
+"editorIndentGuide.activeBackground3": "defualt",
+"editorIndentGuide.activeBackground4": "defualt",
+"editorIndentGuide.activeBackground5": "defualt",
+"editorIndentGuide.activeBackground6": "defualt",
+"
+
+
+editorInlayHint.background": "defualt",
+"editorInlayHint.foreground": "defualt",
+"editorInlayHint.typeForeground": "defualt",
+"editorInlayHint.typeBackground": "defualt",
+"editorInlayHint.parameterForeground": "defualt",
+"editorInlayHint.parameterBackground": "defualt",
+"
+
+
+editorRuler.foreground": "defualt",
+"
+editor.linkedEditingBackground": "defualt",
+"
+CodeLens": "defualt",
+"
+CodeLens
+
+editorCodeLens.foreground": "defualt",
+"
+Lightbulb": "defualt",
+"
+editorLightBulb.foreground": "defualt",
+"editorLightBulbAutoFix.foreground": "defualt",
+"editorLightBulbAi.foreground": "defualt",
+"
+Bracketmatches": "defualt",
+"
+Bracketcolors
+
+editorBracketMatch.background": "defualt",
+"editorBracketMatch.border": "defualt",
+"
+Bracketpaircolorization": "defualt",
+"
+editorBracketHighlight.foreground1": "defualt",
+"editorBracketHighlight.foreground2": "defualt",
+"editorBracketHighlight.foreground3": "defualt",
+"editorBracketHighlight.foreground4": "defualt",
+"editorBracketHighlight.foreground5": "defualt",
+"editorBracketHighlight.foreground6": "defualt",
+"editorBracketHighlight.unexpectedBracket.foreground": "defualt",
+"
+Bracketpairguides": "defualt",
+"
+editorBracketPairGuide.activeBackground1": "defualt",
+"
+editorBracketPairGuide.activeBackground2": "defualt",
+"
+editorBracketPairGuide.activeBackground3": "defualt",
+"
+editorBracketPairGuide.activeBackground4": "defualt",
+"
+editorBracketPairGuide.activeBackground5": "defualt",
+"
+editorBracketPairGuide.activeBackground6": "defualt",
+"
+editorBracketPairGuide.background1": "defualt",
+"
+editorBracketPairGuide.background2": "defualt",
+"
+editorBracketPairGuide.background3": "defualt",
+"
+editorBracketPairGuide.background4": "defualt",
+"
+editorBracketPairGuide.background5": "defualt",
+"
+editorBracketPairGuide.background6": "defualt",
+"
+Folding": "defualt",
+"
+editor.foldBackground": "defualt",
+"editor.foldPlaceholderForeground": "defualt",
+"
+Overviewruler": "defualt",
+"
+Thisrulerislocatedbeneaththescrollbarontherightedgeoftheeditorandgivesanoverviewofthedecorationsintheeditor.
+
+editorOverviewRuler.background": "defualt",
+"editorOverviewRuler.border": "defualt",
+"editorOverviewRuler.findMatchForeground": "defualt",
+"editorOverviewRuler.rangeHighlightForeground": "defualt",
+"editorOverviewRuler.selectionHighlightForeground": "defualt",
+"editorOverviewRuler.wordHighlightForeground": "defualt",
+"editorOverviewRuler.wordHighlightStrongForeground": "defualt",
+"editorOverviewRuler.wordHighlightTextForeground": "defualt",
+"editorOverviewRuler.modifiedForeground": "defualt",
+"editorOverviewRuler.addedForeground": "defualt",
+"editorOverviewRuler.deletedForeground": "defualt",
+"editorOverviewRuler.errorForeground": "defualt",
+"editorOverviewRuler.warningForeground": "defualt",
+"editorOverviewRuler.infoForeground": "defualt",
+"editorOverviewRuler.bracketMatchForeground": "defualt",
+"editorOverviewRuler.inlineChatInserted": "defualt",
+"editorOverviewRuler.inlineChatRemoved": "defualt",
+"
+Errorsandwarnings": "defualt",
+"
+editorError.foreground": "defualt",
+"editorError.border": "defualt",
+"editorError.background": "defualt",
+"editorWarning.foreground": "defualt",
+"editorWarning.border": "defualt",
+"editorWarning.background": "defualt",
+"editorInfo.foreground": "defualt",
+"editorInfo.border": "defualt",
+"editorInfo.background": "defualt",
+"editorHint.foreground": "defualt",
+"editorHint.border": "defualt",
+"problemsErrorIcon.foreground": "defualt",
+"problemsWarningIcon.foreground": "defualt",
+"problemsInfoIcon.foreground": "defualt",
+"
+Unusedsourcecode": "defualt",
+"
+editorUnnecessaryCode.border": "defualt",
+"editorUnnecessaryCode.opacity": "defualt",
+"
+Theguttercontainstheglyphmarginsandthelinenumbers": "defualt",
+"
+editorGutter.background": "defualt",
+"editorGutter.modifiedBackground": "defualt",
+"editorGutter.addedBackground": "defualt",
+"editorGutter.deletedBackground": "defualt",
+"editorGutter.commentRangeForeground": "defualt",
+"editorGutter.commentGlyphForeground": "defualt",
+"editorGutter.commentUnresolvedGlyphForeground": "defualt",
+"editorGutter.foldingControlForeground": "defualt",
+"
+Theeditorcommentswidgetcanbeseenwhenreviewingpullrequests": "defualt",
+"
+editorCommentsWidget.resolvedBorder": "defualt",
+"editorCommentsWidget.unresolvedBorder": "defualt",
+"editorCommentsWidget.rangeBackground": "defualt",
+"editorCommentsWidget.rangeActiveBackground": "defualt",
+"editorCommentsWidget.replyInputBackground": "defualt",
+"
+Diffeditorcolors
+
+
+
+diffEditor.insertedTextBackground": "defualt",
+"diffEditor.insertedTextBorder": "defualt",
+"diffEditor.removedTextBackground": "defualt",
+"diffEditor.removedTextBorder": "defualt",
+"diffEditor.border": "defualt",
+"diffEditor.diagonalFill": "defualt",
+"diffEditor.insertedLineBackground": "defualt",
+"diffEditor.removedLineBackground": "defualt",
+"diffEditorGutter.insertedLineBackground": "defualt",
+"diffEditorGutter.removedLineBackground": "defualt",
+"diffEditorOverview.insertedForeground": "defualt",
+"diffEditorOverview.removedForeground": "defualt",
+"diffEditor.unchangedRegionBackground": "defualt",
+"diffEditor.unchangedRegionForeground": "defualt",
+"diffEditor.unchangedRegionShadow": "defualt",
+"diffEditor.unchangedCodeBackground": "defualt",
+"diffEditor.move.border": "defualt",
+"diffEditor.moveActive.border": "defualt",
+"multiDiffEditor.headerBackground": "defualt",
+"multiDiffEditor.background": "defualt",
+"multiDiffEditor.border": "defualt",
+"
+Chatcolors
+
+chat.requestBorder": "defualt",
+"chat.requestBackground": "defualt",
+"chat.slashCommandBackground": "defualt",
+"chat.slashCommandForeground": "defualt",
+"chat.avatarBackground": "defualt",
+"chat.avatarForeground": "defualt",
+"chat.requestBackground": "defualt",
+"
+InlineChatcolors
+
+inlineChat.background": "defualt",
+"inlineChat.foreground": "defualt",
+"inlineChat.border": "defualt",
+"inlineChat.shadow": "defualt",
+"inlineChatInput.border": "defualt",
+"inlineChatInput.focusBorder": "defualt",
+"inlineChatInput.placeholderForeground": "defualt",
+"inlineChatInput.background": "defualt",
+"inlineChatDiff.inserted": "defualt",
+"inlineChatDiff.removed": "defualt",
+"
+PanelChatcolors
+
+interactive.activeCodeBorder": "defualt",
+"interactive.inactiveCodeBorder": "defualt",
+"
+Editorwidgetcolors
+
+
+
+editorWidget.foreground": "defualt",
+"
+editorWidget.background": "defualt",
+"
+editorWidget.border": "defualt",
+"
+editorWidget.resizeBorder": "defualt",
+"
+editorSuggestWidget.background": "defualt",
+"
+editorSuggestWidget.border": "defualt",
+"
+editorSuggestWidget.foreground": "defualt",
+"
+editorSuggestWidget.focusHighlightForeground": "defualt",
+"
+editorSuggestWidget.highlightForeground": "defualt",
+"
+editorSuggestWidget.selectedBackground": "defualt",
+"
+editorSuggestWidget.selectedForeground": "defualt",
+"
+editorSuggestWidget.selectedIconForeground": "defualt",
+"
+editorSuggestWidgetStatus.foreground": "defualt",
+"
+editorHoverWidget.foreground": "defualt",
+"
+editorHoverWidget.background": "defualt",
+"
+editorHoverWidget.border": "defualt",
+"
+editorHoverWidget.highlightForeground": "defualt",
+"
+editorHoverWidget.statusBarBackground": "defualt",
+"
+editorGhostText.border": "defualt",
+"
+editorGhostText.background": "defualt",
+"
+editorGhostText.foreground": "defualt",
+"
+editorStickyScroll.background": "defualt",
+"
+editorStickyScroll.border": "defualt",
+"
+editorStickyScroll.shadow": "defualt",
+"
+editorStickyScrollHover.background": "defualt",
+"
+TheDebugExceptionwidgetisapeekviewthatshowsintheeditorwhendebugstopsatanexception.
+
+debugExceptionWidget.background": "defualt",
+"debugExceptionWidget.border": "defualt",
+"
+Theeditormarkerviewshowswhennavigatingtoerrorsandwarningsintheeditor(GotoNextErrororWarningcommand).
+
+editorMarkerNavigation.background": "defualt",
+"editorMarkerNavigationError.background": "defualt",
+"editorMarkerNavigationWarning.background": "defualt",
+"editorMarkerNavigationInfo.background": "defualt",
+"editorMarkerNavigationError.headerBackground": "defualt",
+"editorMarkerNavigationWarning.headerBackground": "defualt",
+"editorMarkerNavigationInfo.headerBackground": "defualt",
+"
+Peekviewcolors
+
+Peekviewsareusedtoshowreferencesanddeclarationsasaviewinsidetheeditor.
+
+Peekview
+
+peekView.border": "defualt",
+"peekViewEditor.background": "defualt",
+"peekViewEditorGutter.background": "defualt",
+"peekViewEditor.matchHighlightBackground": "defualt",
+"peekViewEditor.matchHighlightBorder": "defualt",
+"peekViewResult.background": "defualt",
+"peekViewResult.fileForeground": "defualt",
+"peekViewResult.lineForeground": "defualt",
+"peekViewResult.matchHighlightBackground": "defualt",
+"peekViewResult.selectionBackground": "defualt",
+"peekViewResult.selectionForeground": "defualt",
+"peekViewTitle.background": "defualt",
+"peekViewTitleDescription.foreground": "defualt",
+"peekViewTitleLabel.foreground": "defualt",
+"peekViewEditorStickyScroll.background": "defualt",
+"
+Mergeconflictscolors
+
+Mergeconflictdecorationsareshownwhentheeditorcontainsspecialdiffranges.
+
+Mergeranges
+
+merge.currentHeaderBackground": "defualt",
+"merge.currentContentBackground": "defualt",
+"merge.incomingHeaderBackground": "defualt",
+"merge.incomingContentBackground": "defualt",
+"merge.border": "defualt",
+"merge.commonContentBackground": "defualt",
+"merge.commonHeaderBackground": "defualt",
+"editorOverviewRuler.currentContentForeground": "defualt",
+"editorOverviewRuler.incomingContentForeground": "defualt",
+"editorOverviewRuler.commonContentForeground": "defualt",
+"editorOverviewRuler.commentForeground": "defualt",
+"editorOverviewRuler.commentUnresolvedForeground": "defualt",
+"mergeEditor.change.background": "defualt",
+"mergeEditor.change.word.background": "defualt",
+"mergeEditor.conflict.unhandledUnfocused.border": "defualt",
+"mergeEditor.conflict.unhandledFocused.border": "defualt",
+"mergeEditor.conflict.handledUnfocused.border": "defualt",
+"mergeEditor.conflict.handledFocused.border": "defualt",
+"mergeEditor.conflict.handled.minimapOverViewRuler": "defualt",
+"mergeEditor.conflict.unhandled.minimapOverViewRuler": "defualt",
+"mergeEditor.conflictingLines.background": "defualt",
+"mergeEditor.changeBase.background": "defualt",
+"mergeEditor.changeBase.word.background": "defualt",
+"mergeEditor.conflict.input1.background": "defualt",
+"mergeEditor.conflict.input2.background": "defualt",
+"
+Panelcolors
+
+PanelsareshownbelowtheeditorareaandcontainviewslikeOutputandIntegratedTerminal.
+
+panel.background": "defualt",
+"panel.border": "defualt",
+"panel.dropBorder": "defualt",
+"panelTitle.activeBorder": "defualt",
+"panelTitle.activeForeground": "defualt",
+"panelTitle.inactiveForeground": "defualt",
+"panelInput.border": "defualt",
+"panelSection.border": "defualt",
+"panelSection.dropBackground": "defualt",
+"panelSectionHeader.background": "defualt",
+"panelSectionHeader.foreground": "defualt",
+"panelStickyScroll.background": "defualt",
+"panelStickyScroll.border": "defualt",
+"panelStickyScroll.shadow": "defualt",
+"panelSectionHeader.border": "defualt",
+"outputView.background": "defualt",
+"outputViewStickyScroll.background": "defualt",
+"
+StatusBarcolors
+
+TheStatusBarisshowninthebottomoftheworkbench.
+
+statusBar.background": "defualt",
+"statusBar.foreground": "defualt",
+"statusBar.border": "defualt",
+"statusBar.debuggingBackground": "defualt",
+"statusBar.debuggingForeground": "defualt",
+"statusBar.debuggingBorder": "defualt",
+"statusBar.noFolderForeground": "defualt",
+"statusBar.noFolderBackground": "defualt",
+"statusBar.noFolderBorder": "defualt",
+"statusBarItem.activeBackground": "defualt",
+"statusBarItem.hoverForeground": "defualt",
+"statusBarItem.hoverBackground": "defualt",
+"statusBarItem.prominentForeground": "defualt",
+"statusBarItem.prominentBackground": "defualt",
+"statusBarItem.prominentHoverForeground": "defualt",
+"statusBarItem.prominentHoverBackground": "defualt",
+"statusBarItem.remoteBackground": "defualt",
+"statusBarItem.remoteForeground": "defualt",
+"statusBarItem.remoteHoverBackground": "defualt",
+"statusBarItem.remoteHoverForeground": "defualt",
+"statusBarItem.errorBackground": "defualt",
+"statusBarItem.errorForeground": "defualt",
+"statusBarItem.errorHoverBackground": "defualt",
+"statusBarItem.errorHoverForeground": "defualt",
+"statusBarItem.warningBackground": "defualt",
+"statusBarItem.warningForeground": "defualt",
+"statusBarItem.warningHoverBackground": "defualt",
+"statusBarItem.warningHoverForeground": "defualt",
+"statusBarItem.compactHoverBackground": "defualt",
+"statusBarItem.focusBorder": "defualt",
+"statusBar.focusBorder": "defualt",
+"statusBarItem.offlineBackground": "defualt",
+"statusBarItem.offlineForeground": "defualt",
+"statusBarItem.offlineHoverForeground": "defualt",
+"statusBarItem.offlineHoverBackground": "defualt",
+"
+ProminentitemsstandoutfromotherStatusBarentriestoindicateimportance.OneexampleistheToggleTabKeyMovesFocuscommandchangemodeindicator.
+TitleBarcolors
+
+titleBar.activeBackground": "defualt",
+"titleBar.activeForeground": "defualt",
+"titleBar.inactiveBackground": "defualt",
+"titleBar.inactiveForeground": "defualt",
+"titleBar.border": "defualt",
+"
+MenuBarcolors
+
+menubar.selectionForeground": "defualt",
+"menubar.selectionBackground": "defualt",
+"menubar.selectionBorder": "defualt",
+"menu.foreground": "defualt",
+"menu.background": "defualt",
+"menu.selectionForeground": "defualt",
+"menu.selectionBackground": "defualt",
+"menu.selectionBorder": "defualt",
+"menu.separatorBackground": "defualt",
+"menu.border": "defualt",
+"
+CommandCentercolors
+
+commandCenter.foreground": "defualt",
+"commandCenter.activeForeground": "defualt",
+"commandCenter.background": "defualt",
+"commandCenter.activeBackground": "defualt",
+"commandCenter.border": "defualt",
+"commandCenter.inactiveForeground": "defualt",
+"commandCenter.inactiveBorder": "defualt",
+"commandCenter.activeBorder": "defualt",
+"commandCenter.debuggingBackground": "defualt",
+"
+Notificationcolors
+
+Notificationtoastsslideupfromthebottom-rightoftheworkbench.
+
+NotificationToasts
+
+
+
+NotificationCenter
+
+notificationCenter.border": "defualt",
+"notificationCenterHeader.foreground": "defualt",
+"notificationCenterHeader.background": "defualt",
+"notificationToast.border": "defualt",
+"notifications.foreground": "defualt",
+"notifications.background": "defualt",
+"notifications.border": "defualt",
+"notificationLink.foreground": "defualt",
+"notificationsErrorIcon.foreground": "defualt",
+"notificationsWarningIcon.foreground": "defualt",
+"notificationsInfoIcon.foreground": "defualt",
+"
+Bannercolors
+
+Thebannerappearsbelowthetitlebarandspanstheentirewidthoftheworkbenchwhenvisible.
+
+banner.background": "defualt",
+"banner.foreground": "defualt",
+"banner.iconForeground": "defualt",
+"
+Extensionscolors
+
+extensionButton.prominentForeground": "defualt",
+"extensionButton.prominentBackground": "defualt",
+"extensionButton.prominentHoverBackground": "defualt",
+"extensionButton.background": "defualt",
+"extensionButton.foreground": "defualt",
+"extensionButton.hoverBackground": "defualt",
+"extensionButton.separator": "defualt",
+"extensionBadge.remoteBackground": "defualt",
+"extensionBadge.remoteForeground": "defualt",
+"extensionIcon.starForeground": "defualt",
+"extensionIcon.verifiedForeground": "defualt",
+"extensionIcon.preReleaseForeground": "defualt",
+"extensionIcon.sponsorForeground": "defualt",
+"
+Quickpickercolors
+
+pickerGroup.border": "defualt",
+"pickerGroup.foreground": "defualt",
+"quickInput.background": "defualt",
+"quickInput.foreground": "defualt",
+"quickInputList.focusBackground": "defualt",
+"quickInputList.focusForeground": "defualt",
+"quickInputList.focusIconForeground": "defualt",
+"quickInputTitle.background": "defualt",
+"
+Keybindinglabelcolors
+
+Keybindinglabelsareshownwhenthereisakeybindingassociatedwithacommand.AnexampleofthekeybindinglabelcanbeseenintheCommandPalette": "defualt",
+"
+Keybindinglabel
+
+Usagesofthekeybindinglabelinclude(butarenotlimitedto)": "defualt",
+"
+TheCommandPalette
+TheKeyboardShortcutseditor
+TheKeyboardShortcutsrecordermodal
+The"featurecontribution"sectionofanextension'smarketplacepage
+
+Thefollowingcustomizationsareavailable": "defualt",
+"
+keybindingLabel.background": "defualt",
+"keybindingLabel.foreground": "defualt",
+"keybindingLabel.border": "defualt",
+"keybindingLabel.bottomBorder": "defualt",
+"
+Keyboardshortcuttablecolors
+
+keybindingTable.headerBackground": "defualt",
+"keybindingTable.rowsBackground": "defualt",
+"
+IntegratedTerminalcolors
+
+terminal.background": "defualt",
+"terminal.border": "defualt",
+"terminal.foreground": "defualt",
+"terminal.ansiBlack": "defualt",
+"terminal.ansiBlue": "defualt",
+"terminal.ansiBrightBlack": "defualt",
+"terminal.ansiBrightBlue": "defualt",
+"terminal.ansiBrightCyan": "defualt",
+"terminal.ansiBrightGreen": "defualt",
+"terminal.ansiBrightMagenta": "defualt",
+"terminal.ansiBrightRed": "defualt",
+"terminal.ansiBrightWhite": "defualt",
+"terminal.ansiBrightYellow": "defualt",
+"terminal.ansiCyan": "defualt",
+"terminal.ansiGreen": "defualt",
+"terminal.ansiMagenta": "defualt",
+"terminal.ansiRed": "defualt",
+"terminal.ansiWhite": "defualt",
+"terminal.ansiYellow": "defualt",
+"terminal.selectionBackground": "defualt",
+"terminal.selectionForeground": "defualt",
+"terminal.inactiveSelectionBackground": "defualt",
+"terminal.findMatchBackground": "defualt",
+"terminal.findMatchBorder": "defualt",
+"terminal.findMatchHighlightBackground": "defualt",
+"terminal.findMatchHighlightBorder": "defualt",
+"terminal.hoverHighlightBackground": "defualt",
+"terminalCursor.background": "defualt",
+"terminalCursor.foreground": "defualt",
+"terminal.dropBackground": "defualt",
+"terminal.tab.activeBorder": "defualt",
+"terminalCommandDecoration.defaultBackground": "defualt",
+"terminalCommandDecoration.successBackground": "defualt",
+"terminalCommandDecoration.errorBackground": "defualt",
+"terminalOverviewRuler.cursorForeground": "defualt",
+"terminalOverviewRuler.findMatchForeground": "defualt",
+"terminalStickyScroll.background": "defualt",
+"terminalStickyScroll.border": "defualt",
+"terminalStickyScrollHover.background": "defualt",
+"terminal.initialHintForeground": "defualt",
+"
+Debugcolors
+
+debugToolBar.background": "defualt",
+"debugToolBar.border": "defualt",
+"editor.stackFrameHighlightBackground": "defualt",
+"editor.focusedStackFrameHighlightBackground": "defualt",
+"editor.inlineValuesForeground": "defualt",
+"editor.inlineValuesBackground": "defualt",
+"debugView.exceptionLabelForeground": "defualt",
+"debugView.exceptionLabelBackground": "defualt",
+"debugView.stateLabelForeground": "defualt",
+"debugView.stateLabelBackground": "defualt",
+"debugView.valueChangedHighlight": "defualt",
+"debugTokenExpression.name": "defualt",
+"debugTokenExpression.value": "defualt",
+"debugTokenExpression.string": "defualt",
+"debugTokenExpression.boolean": "defualt",
+"debugTokenExpression.number": "defualt",
+"debugTokenExpression.error": "defualt",
+"debugTokenExpression.type": "defualt",
+"
+Testingcolors
+
+testing.runAction": "defualt",
+"testing.iconErrored": "defualt",
+"testing.iconFailed": "defualt",
+"testing.iconPassed": "defualt",
+"testing.iconQueued": "defualt",
+"testing.iconUnset": "defualt",
+"testing.iconSkipped": "defualt",
+"testing.iconErrored.retired": "defualt",
+"testing.iconFailed.retired": "defualt",
+"testing.iconPassed.retired": "defualt",
+"testing.iconQueued.retired": "defualt",
+"testing.iconUnset.retired": "defualt",
+"testing.iconSkipped.retired": "defualt",
+"testing.peekBorder": "defualt",
+"testing.peekHeaderBackground": "defualt",
+"testing.message.error.decorationForeground": "defualt",
+"testing.message.error.lineBackground": "defualt",
+"testing.message.info.decorationForeground": "defualt",
+"testing.message.info.lineBackground": "defualt",
+"testing.messagePeekBorder": "defualt",
+"testing.messagePeekHeaderBackground": "defualt",
+"testing.coveredBackground": "defualt",
+"testing.coveredBorder": "defualt",
+"testing.coveredGutterBackground": "defualt",
+"testing.uncoveredBranchBackground": "defualt",
+"testing.uncoveredBackground": "defualt",
+"testing.uncoveredBorder": "defualt",
+"testing.uncoveredGutterBackground": "defualt",
+"testing.coverCountBadgeBackground": "defualt",
+"testing.coverCountBadgeForeground": "defualt",
+"
+Welcomepagecolors
+
+welcomePage.background": "defualt",
+"
+welcomePage.progress.background": "defualt",
+"
+welcomePage.progress.foreground": "defualt",
+"
+welcomePage.tileBackground": "defualt",
+"
+welcomePage.tileHoverBackground": "defualt",
+"
+welcomePage.tileBorder": "defualt",
+"
+walkThrough.embeddedEditorBackground": "defualt",
+"
+walkthrough.stepTitle.foreground": "defualt",
+"
+Gitcolors
+
+gitDecoration.addedResourceForeground": "defualt",
+"gitDecoration.modifiedResourceForeground": "defualt",
+"gitDecoration.deletedResourceForeground": "defualt",
+"gitDecoration.renamedResourceForeground": "defualt",
+"gitDecoration.stageModifiedResourceForeground": "defualt",
+"gitDecoration.stageDeletedResourceForeground": "defualt",
+"gitDecoration.untrackedResourceForeground": "defualt",
+"gitDecoration.ignoredResourceForeground": "defualt",
+"gitDecoration.conflictingResourceForeground": "defualt",
+"gitDecoration.submoduleResourceForeground": "defualt",
+"
+SettingsEditorcolors
+
+Note": "defualt",
+"
+settings.headerForeground": "defualt",
+"settings.modifiedItemIndicator": "defualt",
+"settings.dropdownBackground": "defualt",
+"settings.dropdownForeground": "defualt",
+"settings.dropdownBorder": "defualt",
+"settings.dropdownListBorder": "defualt",
+"settings.checkboxBackground": "defualt",
+"settings.checkboxForeground": "defualt",
+"settings.checkboxBorder": "defualt",
+"settings.rowHoverBackground": "defualt",
+"settings.textInputBackground": "defualt",
+"settings.textInputForeground": "defualt",
+"settings.textInputBorder": "defualt",
+"settings.numberInputBackground": "defualt",
+"settings.numberInputForeground": "defualt",
+"settings.numberInputBorder": "defualt",
+"settings.focusedRowBackground": "defualt",
+"settings.focusedRowBorder": "defualt",
+"settings.headerBorder": "defualt",
+"settings.sashBorder": "defualt",
+"settings.settingsHeaderHoverForeground": "defualt",
+"
+Breadcrumbscolors
+
+Thethemecolorsforbreadcrumbsnavigation": "defualt",
+"
+breadcrumb.foreground": "defualt",
+"breadcrumb.background": "defualt",
+"breadcrumb.focusForeground": "defualt",
+"breadcrumb.activeSelectionForeground": "defualt",
+"breadcrumbPicker.background": "defualt",
+"
+Snippetscolors
+
+Thethemecolorsforsnippets": "defualt",
+"
+editor.snippetTabstopHighlightBackground": "defualt",
+"editor.snippetTabstopHighlightBorder": "defualt",
+"editor.snippetFinalTabstopHighlightBackground": "defualt",
+"editor.snippetFinalTabstopHighlightBorder": "defualt",
+"
+SymbolIconscolors
+
+
+
+symbolIcon.arrayForeground": "defualt",
+"symbolIcon.booleanForeground": "defualt",
+"symbolIcon.classForeground": "defualt",
+"symbolIcon.colorForeground": "defualt",
+"symbolIcon.constantForeground": "defualt",
+"symbolIcon.constructorForeground": "defualt",
+"symbolIcon.enumeratorForeground": "defualt",
+"symbolIcon.enumeratorMemberForeground": "defualt",
+"symbolIcon.eventForeground": "defualt",
+"symbolIcon.fieldForeground": "defualt",
+"symbolIcon.fileForeground": "defualt",
+"symbolIcon.folderForeground": "defualt",
+"symbolIcon.functionForeground": "defualt",
+"symbolIcon.interfaceForeground": "defualt",
+"symbolIcon.keyForeground": "defualt",
+"symbolIcon.keywordForeground": "defualt",
+"symbolIcon.methodForeground": "defualt",
+"symbolIcon.moduleForeground": "defualt",
+"symbolIcon.namespaceForeground": "defualt",
+"symbolIcon.nullForeground": "defualt",
+"symbolIcon.numberForeground": "defualt",
+"symbolIcon.objectForeground": "defualt",
+"symbolIcon.operatorForeground": "defualt",
+"symbolIcon.packageForeground": "defualt",
+"symbolIcon.propertyForeground": "defualt",
+"symbolIcon.referenceForeground": "defualt",
+"symbolIcon.snippetForeground": "defualt",
+"symbolIcon.stringForeground": "defualt",
+"symbolIcon.structForeground": "defualt",
+"symbolIcon.textForeground": "defualt",
+"symbolIcon.typeParameterForeground": "defualt",
+"symbolIcon.unitForeground": "defualt",
+"symbolIcon.variableForeground": "defualt",
+"
+DebugIconscolors
+
+debugIcon.breakpointForeground": "defualt",
+"
+debugIcon.breakpointDisabledForeground": "defualt",
+"
+debugIcon.breakpointUnverifiedForeground": "defualt",
+"
+debugIcon.breakpointCurrentStackframeForeground": "defualt",
+"
+debugIcon.breakpointStackframeForeground": "defualt",
+"
+debugIcon.startForeground": "defualt",
+"
+debugIcon.pauseForeground": "defualt",
+"
+debugIcon.stopForeground": "defualt",
+"
+debugIcon.disconnectForeground": "defualt",
+"
+debugIcon.restartForeground": "defualt",
+"
+debugIcon.stepOverForeground": "defualt",
+"
+debugIcon.stepIntoForeground": "defualt",
+"
+debugIcon.stepOutForeground": "defualt",
+"
+debugIcon.continueForeground": "defualt",
+"
+debugIcon.stepBackForeground": "defualt",
+"
+debugConsole.infoForeground": "defualt",
+"
+debugConsole.warningForeground": "defualt",
+"
+debugConsole.errorForeground": "defualt",
+"
+debugConsole.sourceForeground": "defualt",
+"
+debugConsoleInputIcon.foreground": "defualt",
+"
+Notebookcolors
+
+notebook.editorBackground": "defualt",
+"notebook.cellBorderColor": "defualt",
+"notebook.cellHoverBackground": "defualt",
+"notebook.cellInsertionIndicator": "defualt",
+"notebook.cellStatusBarItemHoverBackground": "defualt",
+"notebook.cellToolbarSeparator": "defualt",
+"notebook.cellEditorBackground": "defualt",
+"notebook.focusedCellBackground": "defualt",
+"notebook.focusedCellBorder": "defualt",
+"notebook.focusedEditorBorder": "defualt",
+"notebook.inactiveFocusedCellBorder": "defualt",
+"notebook.inactiveSelectedCellBorder": "defualt",
+"notebook.outputContainerBackgroundColor": "defualt",
+"notebook.outputContainerBorderColor": "defualt",
+"notebook.selectedCellBackground": "defualt",
+"notebook.selectedCellBorder": "defualt",
+"notebook.symbolHighlightBackground": "defualt",
+"notebookScrollbarSlider.activeBackground": "defualt",
+"notebookScrollbarSlider.background": "defualt",
+"notebookScrollbarSlider.hoverBackground": "defualt",
+"notebookStatusErrorIcon.foreground": "defualt",
+"notebookStatusRunningIcon.foreground": "defualt",
+"notebookStatusSuccessIcon.foreground": "defualt",
+"notebookEditorOverviewRuler.runningCellForeground": "defualt",
+"
+Chartcolors
+
+charts.foreground": "defualt",
+"charts.lines": "defualt",
+"charts.red": "defualt",
+"charts.blue": "defualt",
+"charts.yellow": "defualt",
+"charts.orange": "defualt",
+"charts.green": "defualt",
+"charts.purple": "defualt",
+"
+PortsColors
+
+ports.iconRunningProcessForeground": "defualt",
+"
+CommentsViewcolors
+
+commentsView.resolvedIcon": "defualt",
+"commentsView.unresolvedIcon": "defualt",
+"actionBar.toggledBackground": "defualt",
+"simpleFindWidget.sashBorder": "defualt",
+"scm.historyItemAdditionsForeground": "defualt",
+"scm.historyItemDeletionsForeground": "defualt",
+"scm.historyItemStatisticsBorder": "defualt",
+"scm.historyItemSelectedStatisticsBorder:
