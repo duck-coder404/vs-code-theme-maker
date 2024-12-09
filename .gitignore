@@ -1,5 +1,13 @@
-#vscode
+# VS Code
 .vscode
 
-#drafts
-drafts.py
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Venv
+venv/
+venv#/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
