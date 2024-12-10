@@ -5,6 +5,8 @@ from tkinter import ttk
 all_sittings = json.load(open("settings.json"))
 
 
+
+
 def main():
     window = create_window()
 
