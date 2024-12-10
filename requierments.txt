@@ -1,3 +1,0 @@
-pyqt6
-pyside6
-poetry
